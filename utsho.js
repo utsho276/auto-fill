@@ -164,7 +164,7 @@
                     forceFillInput(input, cleanText);
                     input.style.backgroundColor = "#c8e6c9";
                 } else {
-                    input.style.backgroundColor = "#ffcdd2";
+                    input.style.backgroundColor = "#c8e6c9";
                 }
 
             } catch (e) {
